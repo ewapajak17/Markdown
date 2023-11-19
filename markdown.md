@@ -1,22 +1,20 @@
-- [Start writing in Markdown](#start-writing-in-markdown)
-  - [Create a table](#create-a-table)
-  - [Quote](#quote)
-  - [Distinguish parts of code or formulas](#distinguish-parts-of-code-or-formulas)
-  - [Create a link to a website](#create-a-link-to-a-website)
-  - [Create a link to another heading](#create-a-link-to-another-heading)
-  - [Images](#images)
+- [Create a table](#create-a-table)
+- [Quote](#quote)
+- [Distinguish parts of code or formulas](#distinguish-parts-of-code-or-formulas)
+- [Create a link to a website](#create-a-link-to-a-website)
+- [Create a link to another heading](#create-a-link-to-another-heading)
+- [Images](#images)
 
 
-# Start writing in Markdown 
+# Start writing in Markdown <!-- omit in toc -->
 First you need to give a title. Put # and after a space, type your title.
 
-- [Start writing in Markdown](#start-writing-in-markdown)
-  - [Create a table](#create-a-table)
-  - [Quote](#quote)
-  - [Distinguish parts of code or formulas](#distinguish-parts-of-code-or-formulas)
-  - [Create a link to a website](#create-a-link-to-a-website)
-  - [Create a link to another heading](#create-a-link-to-another-heading)
-  - [Images](#images)
+- [Create a table](#create-a-table)
+- [Quote](#quote)
+- [Distinguish parts of code or formulas](#distinguish-parts-of-code-or-formulas)
+- [Create a link to a website](#create-a-link-to-a-website)
+- [Create a link to another heading](#create-a-link-to-another-heading)
+- [Images](#images)
 ## Create a table
 | **Last name** | First name |
 | ------------- | ---------- |
