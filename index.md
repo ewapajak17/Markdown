@@ -31,6 +31,7 @@ Give your document a title. Put **#** at the beginning. Begin individual chapter
 To improve the visibility of your text, use **bold**, *italics* or ~~striketrough~~.  
 ## Add a Quote
 Put > in front of a paragraph to add a quote.
+
 > How to write software documentation
 
 ## Add Formulas or Parts of Code
