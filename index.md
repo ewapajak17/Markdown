@@ -1,7 +1,7 @@
 
 # Start Writing in Markdown <!-- omit in toc -->
 
-Markdown is an easy-to-use markup language for creating formatted text with a plain-text editor such as GitHub we editor or VS Code.
+Markdown is an easy-to-use markup language for creating formatted text with a plain-text editor such as GitHub editor or VS Code.
 
 - [Structure your Document](#structure-your-document)- 
   - [Create a List](#create-a-list)
